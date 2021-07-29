@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^20.1.5"
+    "@hapi/hapi": "^20.1.5",
+    "env2": "^2.2.2",
+    "hapi-pgsql": "^1.0.2"
+  },
+  "devDependencies": {
+    "prettier-eslint": "^13.0.0"
   }
 }
